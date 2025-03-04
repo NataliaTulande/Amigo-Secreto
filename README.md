@@ -4,7 +4,7 @@ más amigos en donde se sortean aleatoriamente y al momento de sortearlos todos 
 ## 🔨 Funcionalidades del proyecto
 Indica tu amigo secreto y tambien te advierte cuando ya se sortean todos tus amigos, cuando el espacio esta en blanco y cuando has puesto menos de 3 amigos, ademas se adapata segun el dispositivo en que lo vean
 
-!<img src="assets/Pagina.jpeg" class="main-image">
+<img src="assets/Pagina.jpeg" class="main-image">
 
 ## ✔️ Tecnologías utilizadas
 
