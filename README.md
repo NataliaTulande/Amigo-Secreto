@@ -10,6 +10,6 @@ Indica tu amigo secreto y tambien te advierte cuando ya se sortean todos tus ami
 
 Estas fueron las tecnologías utilizadas: 
 
-- `JavaScript`<img src="assets/JavaScript-logo.png" height="40" width="12">
-- `HTML5`: <img src="assets/HTML5_logo.png" height="40" width="12">
-  - `CSS`: <img src="assets/CSS3_logo.png" height="40" width="12">
+- `JavaScript`<img src="assets/JavaScript-logo.png" height="40" width="40">
+- `HTML5`: <img src="assets/HTML5_logo.png" height="50" width="50">
+  - `CSS`: <img src="assets/CSS3_logo.png" height="50" width="50">
